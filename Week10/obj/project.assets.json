@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\MyProjectName\\MyProjectName.csproj",
-      "projectName": "MyProjectName",
-      "projectPath": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\MyProjectName\\MyProjectName.csproj",
+      "projectUniqueName": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\Week10\\Week10.csproj",
+      "projectName": "Week10",
+      "projectPath": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\Week10\\Week10.csproj",
       "packagesPath": "C:\\Users\\Loq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\MyProjectName\\obj\\",
+      "outputPath": "C:\\Users\\Loq\\RiderProjects\\week-10-IrynaSalahub1\\Week10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Loq\\AppData\\Roaming\\NuGet\\NuGet.Config"
