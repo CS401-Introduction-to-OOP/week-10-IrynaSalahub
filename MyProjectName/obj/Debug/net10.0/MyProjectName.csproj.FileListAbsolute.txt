@@ -1,0 +1,15 @@
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\bin\Debug\net10.0\MyProjectName.exe
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\bin\Debug\net10.0\MyProjectName.deps.json
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\bin\Debug\net10.0\MyProjectName.runtimeconfig.json
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\bin\Debug\net10.0\MyProjectName.dll
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\bin\Debug\net10.0\MyProjectName.pdb
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.AssemblyInfoInputs.cache
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.AssemblyInfo.cs
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.csproj.CoreCompileInputs.cache
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.sourcelink.json
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.dll
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\refint\MyProjectName.dll
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.pdb
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\MyProjectName.genruntimeconfig.cache
+C:\Users\Loq\RiderProjects\week-10-IrynaSalahub1\MyProjectName\obj\Debug\net10.0\ref\MyProjectName.dll
