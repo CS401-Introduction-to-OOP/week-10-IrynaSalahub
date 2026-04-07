@@ -47,33 +47,33 @@ class Program
             if (input.ToLower() == "make action")
             {
                 Console.WriteLine("Оберіть: show active / show persons / show events / show max gold / show groups");
-                string uinp2 = Console.ReadLine();
+                string input2 = Console.ReadLine();
 
-                if (uinp2.ToLower() == "show active")
+                if (input2.ToLower() == "show active")
                 {
                     foreach (var p in party.GetActiveCharacters()) 
                         Console.WriteLine($"Активний: {p.Name}");
                 }
 
-                if (uinp2.ToLower() == "show persons")
+                if (input2.ToLower() == "show persons")
                 {
                     foreach (var p in party) 
                         Console.WriteLine($"{p.Name} ({p.Role}) - HP: {p.HP}");
                 }
 
-                if (uinp2.ToLower() == "show events")
+                if (input2.ToLower() == "show events")
                 {
                     foreach (var e in eventLog) 
                         Console.WriteLine($"Хід {e.MoveNumber}: {e.Description}");
                 }
 
-                if (uinp2.ToLower() == "show max gold")
+                if (input2.ToLower() == "show max gold")
                 {
                     var richest = party.MostGold();
                     Console.WriteLine($"Найбагатший: {richest.Name} ({richest.Gold} золота)");
                 }
 
-                if (uinp2.ToLower() == "show groups")
+                if (input2.ToLower() == "show groups")
                 {
                     party.PrintGroupsByRole();
                 }
